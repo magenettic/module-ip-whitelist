@@ -1,0 +1,21 @@
+{
+    "name": "magenettic/module-ip-whitelist",
+    "description": "IP whitelist for admin login in Magento 2",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Magenettic\\IpWhitelist\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    },
+    "require": {
+        "php": ">=8.2",
+        "magento/framework": "*",
+        "magento/module-backend": "*",
+        "magento/module-config": "*"
+    }
+}

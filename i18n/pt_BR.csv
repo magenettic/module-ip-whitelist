@@ -1,0 +1,6 @@
+"Enable IP Whitelist","Habilitar Lista Branca de IP"
+"Restrict admin access to a list of allowed IP addresses.","Restringir o acesso do admin a uma lista de IPs permitidos."
+"Allowed IP Addresses (Whitelist)","Endereços de IP Permitidos (Lista Branca)"
+"Enter one IP address per line (e.g., 192.168.1.1). Only these IPs will be allowed to access the admin panel.","Insira um IP por linha (ex.: 192.168.1.1). Apenas esses IPs poderão acessar o painel administrativo."
+"Unable to determine your IP address. Access denied.","Não foi possível determinar seu endereço de IP. Acesso negado."
+"Access denied. Your IP address is not allowed.","Acesso negado. Seu endereço de IP não está autorizado."

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+ ~ @copyright   Copyright (c) 2026 Magenettic
+ ~ @author      Eliel de Paula <eliel@magenettic.com>
+ ~ @license     MIT
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <admin>
+            <security>
+                <ip_whitelist_enabled>0</ip_whitelist_enabled>
+            </security>
+        </admin>
+    </default>
+</config>
